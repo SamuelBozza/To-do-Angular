@@ -11,6 +11,22 @@ body {
   background: $primary-background-color;
 }
 
+ul {
+  list-style: none;
+}
+
+textarea:focus, input:focus, button{
+  outline-color: $primary-color;
+}
+
+button {
+  cursor: pointer;
+}
+
+input[type=checkbox] {
+  cursor: pointer;
+}
+
 //Classes
 .container {
   width: 350px;
