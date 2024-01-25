@@ -27,11 +27,11 @@
 
    <p>1. Clone the repository:</p>
 
-   <code>git clone https://github.com/seu-usuario/seu-projeto.git</code>
+   <code>git clone https://github.com/SamuelBozza/To-do-Angular.git</code>
 
    <p>2. Navigate to the project directory:</p>
 
-   <code>cd seu-projeto</code>
+   <code>cd To-do-Angular</code>
 
    <p>3. Install dependencies:</p>
 
